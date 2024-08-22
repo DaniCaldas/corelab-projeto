@@ -2,8 +2,6 @@
 
 Um aplicativo de lista de tarefas simples e eficiente, desenvolvido com React, TypeScript e Chakra UI. Este projeto visa fornecer uma interface de usuário intuitiva e moderna para gerenciar tarefas diárias.
 
-#### Link: https://to-do-list-9u2a99yoc-danicaldas-projects-6f8e6707.vercel.app/
-
 ## Sumário
 
 - [Instalação](#instalação)
@@ -28,13 +26,17 @@ Siga os passos abaixo para configurar o projeto localmente:
 - React: Biblioteca JavaScript para construção de interfaces de usuário.
 - TypeScript: Superconjunto tipado de JavaScript que adiciona tipos estáticos ao código.
 - Chakra UI: Biblioteca de componentes de interface de usuário acessíveis e personalizáveis para React.
-- 
+- Axios
+  
 ###  Funcionalidades
 - Adicionar Tarefa: Permite adicionar novas tarefas à lista.
-- Marcar como Concluída: Opção para marcar tarefas como concluídas.
 - Excluir Tarefa: Remova tarefas da lista.
+- Marcar como Concluída: Opção para marcar tarefas como concluídas.
+- Marcar como Em Andamento: Opção para marcar tarefa como Em Andamento.
+- Favoritar Tarefa: função para favoritar sua tarefa.
+- Mudar Cor: Função para personalizar a cor de sua tarefa.
 - Responsividade: Interface adaptável para diferentes tamanhos de tela.
-- 
+
 ###  Contribuição
 - Contribuições são bem-vindas! Para contribuir, siga os passos abaixo:
 
