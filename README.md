@@ -20,6 +20,8 @@ Siga os passos abaixo para configurar o projeto localmente:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
+   npm install
+   npm start
    
 ## Tecnologias Usadas
 
